@@ -1,2 +1,2 @@
-# ML-EEG-Dataset
+# COMPARING ML MODELS TO REDUCE MISDIAGNOSIS IN PSYCHIATRIC DISORDERS USING EEG DATA
 This project aimed to reduce the misdiagnosis of psychiatric disorders by leveraging machine learning algorithms on EEG data. Misdiagnosis in psychiatry can lead to ineffective treatment plans and prolonged patient suffering. By utilizing EEG data, which captures electrical activity in the brain, this project sought to identify patterns that could differentiate between various psychiatric disorders more accurately.
